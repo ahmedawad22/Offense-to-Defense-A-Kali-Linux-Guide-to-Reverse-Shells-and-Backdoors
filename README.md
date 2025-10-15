@@ -1,4 +1,4 @@
-# Offense-to-Defense-A-Kali-Linux-Guide-to-Reverse-Shells-and-Backdoors
+# Offense to Defense A Kali-Linux Guide to Reverse Shells and Backdoors
 
 **Short description**  
 Demonstrates a full penetration testing workflow in a lab: reconnaissance, controlled exploitation, reverse shell establishment, privilege verification, and defensive validation.
